@@ -1,4 +1,4 @@
-# IUPUI_2019
+# Analysis of Health Factors Effects on Health Outcomes in the United States
 Analysis of Health Factors Effects on Health Outcomes in the United States
 This project aims to discover relationships between health factors and health outcomes in
 the United States. Using models that account for social, physical environment and health
