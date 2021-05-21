@@ -1,4 +1,4 @@
-# IUPUI_2019
+# Impact of medication use on pregnancy outcomes
 Impact of medication use on pregnancy outcomes.
 It is estimated that over half of women receive a prescription or nonprescription medication
 during pregnancy. Though some medications are known to cause birth defects or adverse
